@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-
-<html>
-<head>
-<title>Home</title>
-
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {margin:0;}
@@ -37,10 +30,6 @@ body {margin:0;}
   margin-top: 30px;
   height: 1500px; /* Used in this example to enable scrolling */
 }
-</style>
-</head>
-
-<body>
 
 <div class="navbar">
   <a href="Home.html" style="background-color: #555">Home</a>
@@ -53,32 +42,4 @@ body {margin:0;}
 
 </div>
 
-
-<br>
-<br>
-<br>
-<br>
-
 <div style="background-color: rgba(255, 255, 255, 0.7); width: 80%; margin-left: calc(10% - 10px); padding: 20px ; border-radius: 15px; height: 250px">
-
-<h1 style="text-align: center">Home</h1>
-
-    <h2>About</h2>
-        <p>Welcome to group 4! We are a group of students at Amerikanska Gymnasiet and this is our personal webpage.</p>
-        
-        <img src="Amerikanska.png" style="width:100px; float: right;" alt="Amerikanska gymnasiet">
-    
-    
-<style>
-body {background-image: url(https://cdn.pixabay.com/photo/2016/12/08/01/21/blur-1890745_960_720.jpg) ; background-size: cover ;background-repeat: no-repeat}
-
-</style>
-
-    </div>
-
-    </body>
-
-
-
-
-</html>
